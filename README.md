@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Uday-Mor
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning PHP( Magento )
 - 📫 How to reach me E-mail :- udaymor414@gmail.com
 
 <!---
